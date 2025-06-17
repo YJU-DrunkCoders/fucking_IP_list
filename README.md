@@ -16,11 +16,3 @@
 時間のある時に更新しています。
    
 このリストからIPを削除したい場合は、問題のないIPであるという証拠と共にissueに報告してください。
-   
-
-   
-This list contains only IPs where abnormal behavior has been definitively detected.
-   
-Updated regularly.
-   
-If you wish to remove an IP from this list, please report it in an issue along with evidence that the IP is not problematic.
